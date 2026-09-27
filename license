@@ -1,37 +1,111 @@
-PARADOX SIKEN - ÖZEL LİSANS
+PARADOX SIKEN - ÖZEL LİSANS VE KULLANIM KOŞULLARI
 
-Telif Hakkı (c) 2026 Paradox Siken Geliştirici
-
+Telif Hakkı (c) 2026 Paradox Siken Geliştiricisi
 TÜM HAKLARI SAKLIDIR.
 
-Bu yazılımın kaynak kodu yalnızca bilgilendirme ve eğitim amacıyla
-yayınlanmıştır. Aşağıdaki kısıtlamalar geçerlidir:
+Bu lisans, Paradox Siken yazılımının ve bu depoda yayımlanan ilgili
+materyallerin kullanım koşullarını düzenler.
 
-1. İZİNSİZ DAĞITIM YASAKTIR
-   Bu yazılım, kaynak kodu veya derlenmiş halleri izinsiz olarak
-   kopyalanamaz, dağıtılamaz, satılamaz, kiralanıamaz veya alt
-   lisanslanamaz.
+1. SINIRLI KULLANIM İZNİ
 
-2. TERSİNE MÜHENDİSLİK YASAKTIR
-   Bu yazılımın tersine mühendislik (reverse engineering), kaynak
-   kodundan derleme (decompilation) veya parçalarına ayırma
-   (disassembly) işlemlerine tabi tutulması yasaktır.
+Yasal olarak edinilmiş bir kopyayı yalnızca kişisel ve tek oyunculu
+(singleplayer) kullanım amacıyla kullanmanız için size sınırlı, geri
+alınabilir, münhasır olmayan ve devredilemez bir kullanım izni verilir.
 
-3. DEĞİŞTİRME YASAKTIR
-   Bu yazılım, yazılı izin olmadan değiştirilemez ve türev
-   çalışmalar oluşturulamaz.
+Bu izin herhangi bir mülkiyet veya fikri mülkiyet hakkının devri
+anlamına gelmez.
 
-4. GARANTİ REDDİ
-   BU YAZILIM "OLDUĞU GİBİ" SUNULMAKTADIR. TİCARİ ELVERİŞLİLİK,
-   BELİRLİ BİR AMACA UYGUNLUK VEYA İHLAL ETMEME GARANTİLERİ DAHİL
-   ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE, AÇIK VEYA ZIMNİ HİÇBİR
-   GARANTİ VERİLMEMEKTEDİR.
+2. YASAKLANAN KULLANIMLAR
 
-5. SORUMLULUK SINIRLAMASI
-   HİÇBİR DURUMDA GELİŞTİRİCİ, BU YAZILIMIN KULLANIMINDAN VEYA
-   KULLANILAMMASINDAN KAYNAKLANAN HERHANGİ BİR DOĞRUDAN, DOLAYLI,
-   ARIZI, ÖZEL VEYA SONUÇ OLARAK ORTAYA ÇIKAN ZARARDAN SORUMLU
-   TUTULAMAZ.
+Yürürlükteki emredici hukuk hükümlerinin açıkça izin verdiği haller
+saklı kalmak üzere, yazılı izin olmaksızın:
 
-Bu lisans koşullarının ihlali durumunda kullanım hakkınız otomatik
-olarak sona erer.
+- Yazılım veya kaynak kodu kopyalanamaz, yeniden dağıtılamaz,
+  satılamaz, kiralanamaz veya alt lisanslanamaz.
+- Yazılım değiştirilerek türev çalışma oluşturulamaz.
+- Tersine mühendislik (reverse engineering), decompilation veya
+  disassembly yapılamaz.
+- Yazılım multiplayer ortamında kullanılamaz.
+- Anti-cheat, erişim kontrolü, platform güvenliği veya başka bir
+  güvenlik mekanizmasını aşmak amacıyla kullanılamaz.
+
+3. ÜÇÜNCÜ TARAF KURALLARI VE TİCARİ MARKALAR
+
+Bu yazılım bağımsız bir üçüncü taraf ürünüdür ve Paradox Interactive,
+Valve Corporation (Steam) veya başka bir üçüncü taraf tarafından
+geliştirilmiş, onaylanmış ya da desteklenmiş değildir.
+
+Paradox Interactive, Hearts of Iron, Valve, Steam ve diğer tüm üçüncü
+taraf markaları kendi hak sahiplerine aittir.
+
+Bu lisans, üçüncü tarafların kullanıcı sözleşmelerini, platform
+kurallarını, fikri mülkiyet haklarını veya diğer yasal haklarını
+ortadan kaldırmaz. Kullanıcı ilgili üçüncü taraf kurallarına uymaktan
+kendisi sorumludur.
+
+4. "OLDUĞU GİBİ" SUNUM VE GARANTİ REDDİ
+
+YAZILIM "OLDUĞU GİBİ" (AS IS) VE MEVCUT OLDUĞU ŞEKLİYLE SUNULUR.
+
+YÜRÜRLÜKTEKİ HUKUKUN İZİN VERDİĞİ AZAMİ ÖLÇÜDE; TİCARİ
+ELVERİŞLİLİK, BELİRLİ BİR AMACA UYGUNLUK, HATASIZ ÇALIŞMA,
+KESİNTİSİZ ERİŞİM, ÜÇÜNCÜ TARAF HİZMETLERİYLE SÜREKLİ UYUMLULUK
+VE İHLAL ETMEME DAHİL OLMAK ÜZERE AÇIK VEYA ZIMNİ GARANTİ
+VERİLMEZ.
+
+5. RİSKLER VE KULLANICI SORUMLULUĞU
+
+Yazılımın kullanımı; hesap veya platform yaptırımları, oyun
+dosyalarında bozulma, veri kaybı, uyumsuzluk, performans sorunu veya
+başka teknik sonuçlar doğurabilir.
+
+Kullanıcı, yazılımı kendi sistemi ve kullanım amacı bakımından
+değerlendirmekten, gerekli yedekleri almaktan ve üçüncü taraf
+kurallarına uymaktan sorumludur.
+
+6. SORUMLULUĞUN SINIRLANDIRILMASI
+
+Yürürlükteki hukukun izin verdiği azami ölçüde geliştirici; yazılımın
+kullanımından veya kullanılamamasından doğan dolaylı, arızi, özel veya
+sonuçsal zararlardan sorumlu tutulamaz.
+
+BU HÜKÜM; YÜRÜRLÜKTEKİ HUKUK UYARINCA ÖNCEDEN SINIRLANDIRILMASI
+VEYA KALDIRILMASI MÜMKÜN OLMAYAN SORUMLULUKLARI, KASIT VEYA AĞIR
+KUSURDAN DOĞAN VE HUKUKEN SINIRLANDIRILAMAYAN SORUMLULUKLARI
+ORTADAN KALDIRMAZ.
+
+7. ÜÇÜNCÜ TARAF TALEPLERİ
+
+Kullanıcının yazılımı bu lisansa veya yürürlükteki hukuka aykırı
+kullanmasından kaynaklanan üçüncü taraf talepleri bakımından kullanıcı,
+yürürlükteki hukukun izin verdiği ölçüde kendi fiillerinden sorumludur.
+
+8. GİZLİLİK VE KİŞİSEL VERİLER
+
+Kişisel verilerin işlenmesine ilişkin ayrıntılar ayrı belgelerde
+düzenlenir:
+
+- KVKK_AYDINLATMA.md
+- ACIK_RIZA.md (yalnızca açık rızaya dayanan işlemler bakımından)
+
+Bu lisansın kabulü veya yazılımın kullanılması tek başına açık rıza
+yerine geçmez.
+
+9. LİSANSIN SONA ERMESİ
+
+Bu koşulların esaslı biçimde ihlal edilmesi halinde verilen kullanım
+izni sona erebilir. Kullanım hakkının sona ermesi, yürürlükteki
+emredici mevzuattan doğan kullanıcı haklarını ortadan kaldırmaz.
+
+10. BÖLÜNEBİLİRLİK
+
+Bu metindeki herhangi bir hükmün geçersiz veya uygulanamaz olması,
+kalan hükümlerin geçerliliğini mümkün olduğu ölçüde etkilemez.
+
+11. DEĞİŞİKLİKLER
+
+Bu koşullar gelecekte güncellenebilir. Bir güncelleme geçmişte doğmuş
+ve emredici hukukla korunan hakları geriye dönük olarak ortadan
+kaldırmaz.
+
+Son güncelleme: 28 Eylül 2026
