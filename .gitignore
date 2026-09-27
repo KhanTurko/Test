@@ -1,0 +1,46 @@
+# Build outputs
+*.exe
+*.dll
+*.obj
+*.o
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.res
+*.aps
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.vcxproj.user
+*.suo
+*.sdf
+*.opensdf
+*.db
+
+# Temp files
+*.tmp
+*.log
+*.bak
+
+# Archives
+*.rar
+*.zip
+*.7z
+
+# Secrets - ASLA PUSH ETME
+*.secret
+*.key
+
+# Python
+__pycache__/
+*.pyc
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
